@@ -13,6 +13,6 @@ namespace OnlineShop.Areas.Admin.Models
 
         public string Password { set; get; }
 
-        public bool RemenberMe { set; get; }
+        public bool RememberMe { set; get; }
     }
 }
